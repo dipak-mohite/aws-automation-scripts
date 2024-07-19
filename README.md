@@ -5,11 +5,17 @@ Over the past few weeks, I've been working on a set of scripts using Boto3 to st
 Here's what I've been working on:
 
 EC2: Automate instance management, start/stop instances, and more.
+
 DynamoDB: Automate table creation, data manipulation, and backups.
+
 IAM: Manage user roles, policies, and permissions.
+
 RDS: Automate database instance management and backups.
+
 S3: Handle bucket creation, object uploads/downloads, and lifecycle policies.
+
 VPC: Manage VPC creation, subnets, security groups, and more.
+
 Each script is well-documented, easy to use, and includes a menu-driven interface for simplifying repetitive tasks. I’ve also created a comprehensive GitHub repository where you can explore and contribute to these scripts.
 
 🔗 Check out this GitHub repo for it
