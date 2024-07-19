@@ -33,15 +33,15 @@ Over the past few weeks, I've been working on a set of scripts using **Boto3** t
 - Security groups
 - And more...
 
-Each script is well-documented, easy to use, and includes a menu-driven interface for simplifying repetitive tasks. 
+Each script is well-documented, easy to use, and includes a menu-driven interface for simplifying repetitive tasks.
 
-🔗 **Check out this GitHub repo for it**: [Your GitHub Repo Link]
+🔗 **Check out this GitHub repo for it**: [AWS Automation Scripts](https://github.com/dipak-mohite/aws-automation-scripts/)
 
 Feel free to explore, provide feedback, or contribute to the project. Your insights are always appreciated!
 
 ## 📢 Follow Me:
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
+- [GitHub](https://github.com/dipak-mohite)
+- [LinkedIn](https://www.linkedin.com/in/dipak-mohite/)
 
 ## 🚀 Tags
 #AWS #CloudComputing #Boto3 #Automation #EC2 #DynamoDB #IAM #RDS #S3 #VPC
