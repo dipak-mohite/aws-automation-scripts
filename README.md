@@ -1,4 +1,4 @@
-# 🚀 Excited to Share My Latest AWS Automation Project! 🚀
+# 🚀 Excited to Share My Latest AWS Automation Project! 
 
 Over the past few weeks, I've been working on a set of scripts using **Boto3** to streamline and automate various AWS operations. This project covers a range of AWS services, making cloud management more efficient and less time-consuming.
 
